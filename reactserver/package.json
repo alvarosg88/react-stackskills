@@ -1,0 +1,20 @@
+{
+  "name": "react_on_the_server_test",
+  "version": "1.0.0",
+  "description": "react_on_the_server_test",
+  "main": "server.js",
+  "dependencies": {
+	"body-parser": "*",
+	"express": "*",
+    "react": "*",
+    "react-dom": "*",
+    "create-react-class": "*",
+    "express-handlebars": "*"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "harbaro",
+  "license": "ISC"
+}
